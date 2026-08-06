@@ -24,10 +24,10 @@ while True:
     if is_natural_num(count_text):
         count = int(count_text)
         if count > 100:
-            print("Your number is too large!I need a natural number less than 100.")
+            print("Your number is too large!I need a natural number no greater than 100.")
         else:
             break
-    elif count_text.upper() == "ESC":
+    elif count_text.strip().upper() == "ESC":
         sys.exit()
     else:
         print("I need a natural number.")
