@@ -1,3 +1,11 @@
 # UselessCode
-zh_cn:这个仓库只有我认为没有实际用途的代码。
-en:This repository only contains code that I believe has no practical use.
+这个仓库只有我认为没有实际用途的代码。这篇README.md也是很Useless。除了LICENSE文件不是没有用的。
+## 运行环境
+1. 需要一个操作系统。
+2. 有个能用的解释器或JDK
+## 下载它可以干什么？
+玩
+## 如何使用？
+需要编译的编译后敲命令，解释运行的敲命令解释运行。
+
+##END
